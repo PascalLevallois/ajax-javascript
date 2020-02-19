@@ -1,2 +1,2 @@
 # ajax-javascript
-Method to access with ajax in Javascript
+Various methods to access with ajax in Javascript
